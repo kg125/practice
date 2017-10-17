@@ -1,0 +1,48 @@
+﻿Department of Computer Science                  
+
+
+Cover Sheet for Individual Coursework
+
+Module Code: CO1003
+
+Assignment:  Worksheet 3
+
+
+
+Declaration of Academic Honesty
+
+I understand that this is a piece of individual coursework. I confirm that:
+
+* The solutions are my own work. I have not collaborated with other
+  students or anyone else in coming up with the solutions.
+
+* I have not discussed  any details of this solution to the coursework
+  with other students or anyone else.  
+
+  --   Discussions of general concepts related to the coursework are
+       fine, but not any details relating to specific coursework
+       questions.  For example - studying the notes or slides of
+       lectures relating to the module together is acceptable, but
+       talking about the homework questions is not.
+
+* I have not shown any parts of my solution to other students or
+  anyone else.
+
+* I have not looked at the solutions written by any other students or
+  by anyone else.
+
+* I have appropriately cited any references (Internet, books, source
+  code etc.) that I have used to produce my solutions or any parts of
+  them.
+
+
+The penalties for plagiarism are serious - the MSc and BSc course
+Handbooks and the Department's "For Campus" site contain further
+details. I am aware that any violation of the above would constitute
+plagiarism and carry serious penalties.
+
+
+Date: _____26/10/16_____________
+
+Name: ____Kasey Gordon______________
+
